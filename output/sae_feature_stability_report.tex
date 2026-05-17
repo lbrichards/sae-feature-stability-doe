@@ -76,7 +76,7 @@ Layer is added at collection time, with three levels: early (layer 6), middle (l
 
 \subsection{Model and SAE collection}
 
-The model is \texttt{google/gemma-2-2b-it}. Prompts are rendered with the model chat template and \texttt{add\_generation\_prompt=True}. For each rendered prompt and each target layer, the model is run with hidden states enabled. The residual-stream activation for layer $L$ is extracted from \texttt{outputs.hidden\_states[L + 1]}, following the convention validated in the tooling spike. The last-token residual activation is stored as a 2304-dimensional float32 vector.
+The model is \texttt{google/gemma-2-2b-it}. Prompts are rendered with the model chat template and \texttt{add\_generation\_prompt=True}. For each rendered prompt and each target layer, the model is run with hidden states enabled. The residual-stream activation for layer $L$ is extracted from \texttt{outputs.hidden\_states[L + 1]}, following the convention validated in the tooling experiment. The last-token residual activation is stored as a 2304-dimensional float32 vector.
 
 For each layer, the corresponding Gemma Scope residual-stream SAE is loaded:
 

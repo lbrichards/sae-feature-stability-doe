@@ -1,4 +1,4 @@
-# SAE feature stability spike
+# SAE feature stability experiment
 
 Collects and analyzes Gemma Scope SAE feature activations across a balanced
 factorial prompt design: 405 prompt cells expanded across three layers for 1215

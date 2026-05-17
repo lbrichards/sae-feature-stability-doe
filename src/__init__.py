@@ -1,1 +1,1 @@
-"""SAE feature stability collection spike."""
+"""SAE feature stability experiment."""

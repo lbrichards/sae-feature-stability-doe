@@ -2157,7 +2157,7 @@ wheels = [
 ]
 
 [[package]]
-name = "sae-feature-stability-spike"
+name = "sae-feature-stability-doe"
 version = "0.1.0"
 source = { editable = "." }
 dependencies = [

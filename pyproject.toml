@@ -1,7 +1,7 @@
 [project]
-name = "sae-feature-stability-spike"
+name = "sae-feature-stability-doe"
 version = "0.1.0"
-description = "Collect Gemma Scope SAE feature activations across a prompt x layer factorial design."
+description = "Collect and analyze Gemma Scope SAE feature activations across a prompt x layer factorial design."
 readme = "README.md"
 requires-python = ">=3.11,<3.12"
 dependencies = [

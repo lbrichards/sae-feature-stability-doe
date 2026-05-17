@@ -45,7 +45,7 @@
 
 ## Output
 
-- File: `/Users/larry/Development/sae-feature-stability-spike/output/activations.parquet`
+- File: `output/activations.parquet`
 - Size: 14907227 bytes
 - Rows: 1215
 
