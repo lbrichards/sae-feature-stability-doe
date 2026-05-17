@@ -1,0 +1,406 @@
+content_domain,content_id,role_framing,surface_paraphrase,language_register,is_multi_turn,prompt
+factual_recall,fr1,direct_question,canonical,formal,False,Could you please tell me: What is the capital of France?
+factual_recall,fr1,direct_question,canonical,casual,False,what is the capital of france
+factual_recall,fr1,direct_question,canonical,instruction,False,Identify the capital of France.
+factual_recall,fr1,direct_question,lexical,formal,False,Could you please tell me: What is the capital city of France?
+factual_recall,fr1,direct_question,lexical,casual,False,what is the capital city of france
+factual_recall,fr1,direct_question,lexical,instruction,False,Identify the capital city of France.
+factual_recall,fr1,direct_question,syntactic,formal,False,Could you please tell me: France's capital is which city?
+factual_recall,fr1,direct_question,syntactic,casual,False,france's capital is which city
+factual_recall,fr1,direct_question,syntactic,instruction,False,Identify the city that serves as France's capital.
+factual_recall,fr1,fill_blank,canonical,formal,False,Could you complete the following: The capital of France is ___.
+factual_recall,fr1,fill_blank,canonical,casual,False,fill in: the capital of france is ___.
+factual_recall,fr1,fill_blank,canonical,instruction,False,Complete: The capital of France is ___.
+factual_recall,fr1,fill_blank,lexical,formal,False,Could you complete the following: The capital city of France is ___.
+factual_recall,fr1,fill_blank,lexical,casual,False,fill in: the capital city of france is ___.
+factual_recall,fr1,fill_blank,lexical,instruction,False,Complete: The capital city of France is ___.
+factual_recall,fr1,fill_blank,syntactic,formal,False,Could you complete the following: France's capital city is ___.
+factual_recall,fr1,fill_blank,syntactic,casual,False,fill in: france's capital city is ___.
+factual_recall,fr1,fill_blank,syntactic,instruction,False,Complete: France's capital city is ___.
+factual_recall,fr1,multi_turn,canonical,formal,True,"[{""role"": ""user"", ""content"": ""I'm studying European geography.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Could you please tell me: What is the capital of France?""}]"
+factual_recall,fr1,multi_turn,canonical,casual,True,"[{""role"": ""user"", ""content"": ""I'm studying European geography.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""what is the capital of france""}]"
+factual_recall,fr1,multi_turn,canonical,instruction,True,"[{""role"": ""user"", ""content"": ""I'm studying European geography.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Identify the capital of France.""}]"
+factual_recall,fr1,multi_turn,lexical,formal,True,"[{""role"": ""user"", ""content"": ""I'm studying European geography.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Could you please tell me: What is the capital city of France?""}]"
+factual_recall,fr1,multi_turn,lexical,casual,True,"[{""role"": ""user"", ""content"": ""I'm studying European geography.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""what is the capital city of france""}]"
+factual_recall,fr1,multi_turn,lexical,instruction,True,"[{""role"": ""user"", ""content"": ""I'm studying European geography.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Identify the capital city of France.""}]"
+factual_recall,fr1,multi_turn,syntactic,formal,True,"[{""role"": ""user"", ""content"": ""I'm studying European geography.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Could you please tell me: France's capital is which city?""}]"
+factual_recall,fr1,multi_turn,syntactic,casual,True,"[{""role"": ""user"", ""content"": ""I'm studying European geography.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""france's capital is which city""}]"
+factual_recall,fr1,multi_turn,syntactic,instruction,True,"[{""role"": ""user"", ""content"": ""I'm studying European geography.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Identify the city that serves as France's capital.""}]"
+factual_recall,fr2,direct_question,canonical,formal,False,Could you please tell me: What is the capital of Japan?
+factual_recall,fr2,direct_question,canonical,casual,False,what is the capital of japan
+factual_recall,fr2,direct_question,canonical,instruction,False,Identify the capital of Japan.
+factual_recall,fr2,direct_question,lexical,formal,False,Could you please tell me: What is the capital city of Japan?
+factual_recall,fr2,direct_question,lexical,casual,False,what is the capital city of japan
+factual_recall,fr2,direct_question,lexical,instruction,False,Identify the capital city of Japan.
+factual_recall,fr2,direct_question,syntactic,formal,False,Could you please tell me: Japan's capital is which city?
+factual_recall,fr2,direct_question,syntactic,casual,False,japan's capital is which city
+factual_recall,fr2,direct_question,syntactic,instruction,False,Identify the city that serves as Japan's capital.
+factual_recall,fr2,fill_blank,canonical,formal,False,Could you complete the following: The capital of Japan is ___.
+factual_recall,fr2,fill_blank,canonical,casual,False,fill in: the capital of japan is ___.
+factual_recall,fr2,fill_blank,canonical,instruction,False,Complete: The capital of Japan is ___.
+factual_recall,fr2,fill_blank,lexical,formal,False,Could you complete the following: The capital city of Japan is ___.
+factual_recall,fr2,fill_blank,lexical,casual,False,fill in: the capital city of japan is ___.
+factual_recall,fr2,fill_blank,lexical,instruction,False,Complete: The capital city of Japan is ___.
+factual_recall,fr2,fill_blank,syntactic,formal,False,Could you complete the following: Japan's capital city is ___.
+factual_recall,fr2,fill_blank,syntactic,casual,False,fill in: japan's capital city is ___.
+factual_recall,fr2,fill_blank,syntactic,instruction,False,Complete: Japan's capital city is ___.
+factual_recall,fr2,multi_turn,canonical,formal,True,"[{""role"": ""user"", ""content"": ""I'm studying Asian geography.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Could you please tell me: What is the capital of Japan?""}]"
+factual_recall,fr2,multi_turn,canonical,casual,True,"[{""role"": ""user"", ""content"": ""I'm studying Asian geography.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""what is the capital of japan""}]"
+factual_recall,fr2,multi_turn,canonical,instruction,True,"[{""role"": ""user"", ""content"": ""I'm studying Asian geography.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Identify the capital of Japan.""}]"
+factual_recall,fr2,multi_turn,lexical,formal,True,"[{""role"": ""user"", ""content"": ""I'm studying Asian geography.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Could you please tell me: What is the capital city of Japan?""}]"
+factual_recall,fr2,multi_turn,lexical,casual,True,"[{""role"": ""user"", ""content"": ""I'm studying Asian geography.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""what is the capital city of japan""}]"
+factual_recall,fr2,multi_turn,lexical,instruction,True,"[{""role"": ""user"", ""content"": ""I'm studying Asian geography.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Identify the capital city of Japan.""}]"
+factual_recall,fr2,multi_turn,syntactic,formal,True,"[{""role"": ""user"", ""content"": ""I'm studying Asian geography.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Could you please tell me: Japan's capital is which city?""}]"
+factual_recall,fr2,multi_turn,syntactic,casual,True,"[{""role"": ""user"", ""content"": ""I'm studying Asian geography.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""japan's capital is which city""}]"
+factual_recall,fr2,multi_turn,syntactic,instruction,True,"[{""role"": ""user"", ""content"": ""I'm studying Asian geography.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Identify the city that serves as Japan's capital.""}]"
+factual_recall,fr3,direct_question,canonical,formal,False,Could you please tell me: Who wrote the play Hamlet?
+factual_recall,fr3,direct_question,canonical,casual,False,who wrote the play hamlet
+factual_recall,fr3,direct_question,canonical,instruction,False,State the author of the play Hamlet.
+factual_recall,fr3,direct_question,lexical,formal,False,Could you please tell me: Who authored the play Hamlet?
+factual_recall,fr3,direct_question,lexical,casual,False,who authored the play hamlet
+factual_recall,fr3,direct_question,lexical,instruction,False,State the person who authored the play Hamlet.
+factual_recall,fr3,direct_question,syntactic,formal,False,Could you please tell me: The play Hamlet was written by whom?
+factual_recall,fr3,direct_question,syntactic,casual,False,the play hamlet was written by whom
+factual_recall,fr3,direct_question,syntactic,instruction,False,Name the writer responsible for the play Hamlet.
+factual_recall,fr3,fill_blank,canonical,formal,False,Could you complete the following: The play Hamlet was written by ___.
+factual_recall,fr3,fill_blank,canonical,casual,False,fill in: the play hamlet was written by ___.
+factual_recall,fr3,fill_blank,canonical,instruction,False,Complete: The play Hamlet was written by ___.
+factual_recall,fr3,fill_blank,lexical,formal,False,Could you complete the following: The play Hamlet was authored by ___.
+factual_recall,fr3,fill_blank,lexical,casual,False,fill in: the play hamlet was authored by ___.
+factual_recall,fr3,fill_blank,lexical,instruction,False,Complete: The play Hamlet was authored by ___.
+factual_recall,fr3,fill_blank,syntactic,formal,False,Could you complete the following: The writer of the play Hamlet was ___.
+factual_recall,fr3,fill_blank,syntactic,casual,False,fill in: the writer of the play hamlet was ___.
+factual_recall,fr3,fill_blank,syntactic,instruction,False,Complete: The writer of the play Hamlet was ___.
+factual_recall,fr3,multi_turn,canonical,formal,True,"[{""role"": ""user"", ""content"": ""I'm studying English literature.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Could you please tell me: Who wrote the play Hamlet?""}]"
+factual_recall,fr3,multi_turn,canonical,casual,True,"[{""role"": ""user"", ""content"": ""I'm studying English literature.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""who wrote the play hamlet""}]"
+factual_recall,fr3,multi_turn,canonical,instruction,True,"[{""role"": ""user"", ""content"": ""I'm studying English literature.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""State the author of the play Hamlet.""}]"
+factual_recall,fr3,multi_turn,lexical,formal,True,"[{""role"": ""user"", ""content"": ""I'm studying English literature.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Could you please tell me: Who authored the play Hamlet?""}]"
+factual_recall,fr3,multi_turn,lexical,casual,True,"[{""role"": ""user"", ""content"": ""I'm studying English literature.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""who authored the play hamlet""}]"
+factual_recall,fr3,multi_turn,lexical,instruction,True,"[{""role"": ""user"", ""content"": ""I'm studying English literature.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""State the person who authored the play Hamlet.""}]"
+factual_recall,fr3,multi_turn,syntactic,formal,True,"[{""role"": ""user"", ""content"": ""I'm studying English literature.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Could you please tell me: The play Hamlet was written by whom?""}]"
+factual_recall,fr3,multi_turn,syntactic,casual,True,"[{""role"": ""user"", ""content"": ""I'm studying English literature.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""the play hamlet was written by whom""}]"
+factual_recall,fr3,multi_turn,syntactic,instruction,True,"[{""role"": ""user"", ""content"": ""I'm studying English literature.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Name the writer responsible for the play Hamlet.""}]"
+factual_recall,fr4,direct_question,canonical,formal,False,Could you please tell me: What is the chemical symbol for gold?
+factual_recall,fr4,direct_question,canonical,casual,False,what is the chemical symbol for gold
+factual_recall,fr4,direct_question,canonical,instruction,False,Provide the chemical symbol for gold.
+factual_recall,fr4,direct_question,lexical,formal,False,Could you please tell me: What is the chemical symbol for the element gold?
+factual_recall,fr4,direct_question,lexical,casual,False,what is the chemical symbol for the element gold
+factual_recall,fr4,direct_question,lexical,instruction,False,Provide the chemical symbol for the element gold.
+factual_recall,fr4,direct_question,syntactic,formal,False,Could you please tell me: Gold's chemical symbol is what?
+factual_recall,fr4,direct_question,syntactic,casual,False,gold's chemical symbol is what
+factual_recall,fr4,direct_question,syntactic,instruction,False,Give the symbol used in chemistry for gold.
+factual_recall,fr4,fill_blank,canonical,formal,False,Could you complete the following: The chemical symbol for gold is ___.
+factual_recall,fr4,fill_blank,canonical,casual,False,fill in: the chemical symbol for gold is ___.
+factual_recall,fr4,fill_blank,canonical,instruction,False,Complete: The chemical symbol for gold is ___.
+factual_recall,fr4,fill_blank,lexical,formal,False,Could you complete the following: The chemical symbol for the element gold is ___.
+factual_recall,fr4,fill_blank,lexical,casual,False,fill in: the chemical symbol for the element gold is ___.
+factual_recall,fr4,fill_blank,lexical,instruction,False,Complete: The chemical symbol for the element gold is ___.
+factual_recall,fr4,fill_blank,syntactic,formal,False,Could you complete the following: Gold's chemical symbol is ___.
+factual_recall,fr4,fill_blank,syntactic,casual,False,fill in: gold's chemical symbol is ___.
+factual_recall,fr4,fill_blank,syntactic,instruction,False,Complete: Gold's chemical symbol is ___.
+factual_recall,fr4,multi_turn,canonical,formal,True,"[{""role"": ""user"", ""content"": ""I'm studying chemistry.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Could you please tell me: What is the chemical symbol for gold?""}]"
+factual_recall,fr4,multi_turn,canonical,casual,True,"[{""role"": ""user"", ""content"": ""I'm studying chemistry.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""what is the chemical symbol for gold""}]"
+factual_recall,fr4,multi_turn,canonical,instruction,True,"[{""role"": ""user"", ""content"": ""I'm studying chemistry.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Provide the chemical symbol for gold.""}]"
+factual_recall,fr4,multi_turn,lexical,formal,True,"[{""role"": ""user"", ""content"": ""I'm studying chemistry.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Could you please tell me: What is the chemical symbol for the element gold?""}]"
+factual_recall,fr4,multi_turn,lexical,casual,True,"[{""role"": ""user"", ""content"": ""I'm studying chemistry.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""what is the chemical symbol for the element gold""}]"
+factual_recall,fr4,multi_turn,lexical,instruction,True,"[{""role"": ""user"", ""content"": ""I'm studying chemistry.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Provide the chemical symbol for the element gold.""}]"
+factual_recall,fr4,multi_turn,syntactic,formal,True,"[{""role"": ""user"", ""content"": ""I'm studying chemistry.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Could you please tell me: Gold's chemical symbol is what?""}]"
+factual_recall,fr4,multi_turn,syntactic,casual,True,"[{""role"": ""user"", ""content"": ""I'm studying chemistry.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""gold's chemical symbol is what""}]"
+factual_recall,fr4,multi_turn,syntactic,instruction,True,"[{""role"": ""user"", ""content"": ""I'm studying chemistry.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Give the symbol used in chemistry for gold.""}]"
+factual_recall,fr5,direct_question,canonical,formal,False,Could you please tell me: Who painted the Mona Lisa?
+factual_recall,fr5,direct_question,canonical,casual,False,who painted the mona lisa
+factual_recall,fr5,direct_question,canonical,instruction,False,Name the painter of the Mona Lisa.
+factual_recall,fr5,direct_question,lexical,formal,False,Could you please tell me: Who created the painting Mona Lisa?
+factual_recall,fr5,direct_question,lexical,casual,False,who created the painting mona lisa
+factual_recall,fr5,direct_question,lexical,instruction,False,Name the creator of the painting Mona Lisa.
+factual_recall,fr5,direct_question,syntactic,formal,False,Could you please tell me: The Mona Lisa was painted by whom?
+factual_recall,fr5,direct_question,syntactic,casual,False,the mona lisa was painted by whom
+factual_recall,fr5,direct_question,syntactic,instruction,False,Identify the artist responsible for the Mona Lisa.
+factual_recall,fr5,fill_blank,canonical,formal,False,Could you complete the following: The Mona Lisa was painted by ___.
+factual_recall,fr5,fill_blank,canonical,casual,False,fill in: the mona lisa was painted by ___.
+factual_recall,fr5,fill_blank,canonical,instruction,False,Complete: The Mona Lisa was painted by ___.
+factual_recall,fr5,fill_blank,lexical,formal,False,Could you complete the following: The painting Mona Lisa was created by ___.
+factual_recall,fr5,fill_blank,lexical,casual,False,fill in: the painting mona lisa was created by ___.
+factual_recall,fr5,fill_blank,lexical,instruction,False,Complete: The painting Mona Lisa was created by ___.
+factual_recall,fr5,fill_blank,syntactic,formal,False,Could you complete the following: The painter of the Mona Lisa was ___.
+factual_recall,fr5,fill_blank,syntactic,casual,False,fill in: the painter of the mona lisa was ___.
+factual_recall,fr5,fill_blank,syntactic,instruction,False,Complete: The painter of the Mona Lisa was ___.
+factual_recall,fr5,multi_turn,canonical,formal,True,"[{""role"": ""user"", ""content"": ""I'm studying art history.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Could you please tell me: Who painted the Mona Lisa?""}]"
+factual_recall,fr5,multi_turn,canonical,casual,True,"[{""role"": ""user"", ""content"": ""I'm studying art history.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""who painted the mona lisa""}]"
+factual_recall,fr5,multi_turn,canonical,instruction,True,"[{""role"": ""user"", ""content"": ""I'm studying art history.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Name the painter of the Mona Lisa.""}]"
+factual_recall,fr5,multi_turn,lexical,formal,True,"[{""role"": ""user"", ""content"": ""I'm studying art history.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Could you please tell me: Who created the painting Mona Lisa?""}]"
+factual_recall,fr5,multi_turn,lexical,casual,True,"[{""role"": ""user"", ""content"": ""I'm studying art history.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""who created the painting mona lisa""}]"
+factual_recall,fr5,multi_turn,lexical,instruction,True,"[{""role"": ""user"", ""content"": ""I'm studying art history.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Name the creator of the painting Mona Lisa.""}]"
+factual_recall,fr5,multi_turn,syntactic,formal,True,"[{""role"": ""user"", ""content"": ""I'm studying art history.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Could you please tell me: The Mona Lisa was painted by whom?""}]"
+factual_recall,fr5,multi_turn,syntactic,casual,True,"[{""role"": ""user"", ""content"": ""I'm studying art history.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""the mona lisa was painted by whom""}]"
+factual_recall,fr5,multi_turn,syntactic,instruction,True,"[{""role"": ""user"", ""content"": ""I'm studying art history.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Identify the artist responsible for the Mona Lisa.""}]"
+arithmetic,ar1,direct_question,canonical,formal,False,Could you please tell me: What is 23 plus 19?
+arithmetic,ar1,direct_question,canonical,casual,False,what is 23 plus 19
+arithmetic,ar1,direct_question,canonical,instruction,False,Compute 23 plus 19.
+arithmetic,ar1,direct_question,lexical,formal,False,Could you please tell me: What is the sum of 23 and 19?
+arithmetic,ar1,direct_question,lexical,casual,False,what is the sum of 23 and 19
+arithmetic,ar1,direct_question,lexical,instruction,False,Compute the sum of 23 and 19.
+arithmetic,ar1,direct_question,syntactic,formal,False,Could you please tell me: 23 plus 19 equals what?
+arithmetic,ar1,direct_question,syntactic,casual,False,23 plus 19 equals what
+arithmetic,ar1,direct_question,syntactic,instruction,False,Calculate the value of 23 added to 19.
+arithmetic,ar1,fill_blank,canonical,formal,False,Could you complete the following: 23 plus 19 equals ___.
+arithmetic,ar1,fill_blank,canonical,casual,False,fill in: 23 plus 19 equals ___.
+arithmetic,ar1,fill_blank,canonical,instruction,False,Complete: 23 plus 19 equals ___.
+arithmetic,ar1,fill_blank,lexical,formal,False,Could you complete the following: The sum of 23 and 19 is ___.
+arithmetic,ar1,fill_blank,lexical,casual,False,fill in: the sum of 23 and 19 is ___.
+arithmetic,ar1,fill_blank,lexical,instruction,False,Complete: The sum of 23 and 19 is ___.
+arithmetic,ar1,fill_blank,syntactic,formal,False,Could you complete the following: Adding 23 and 19 gives ___.
+arithmetic,ar1,fill_blank,syntactic,casual,False,fill in: adding 23 and 19 gives ___.
+arithmetic,ar1,fill_blank,syntactic,instruction,False,Complete: Adding 23 and 19 gives ___.
+arithmetic,ar1,multi_turn,canonical,formal,True,"[{""role"": ""user"", ""content"": ""I'm studying basic addition.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Could you please tell me: What is 23 plus 19?""}]"
+arithmetic,ar1,multi_turn,canonical,casual,True,"[{""role"": ""user"", ""content"": ""I'm studying basic addition.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""what is 23 plus 19""}]"
+arithmetic,ar1,multi_turn,canonical,instruction,True,"[{""role"": ""user"", ""content"": ""I'm studying basic addition.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Compute 23 plus 19.""}]"
+arithmetic,ar1,multi_turn,lexical,formal,True,"[{""role"": ""user"", ""content"": ""I'm studying basic addition.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Could you please tell me: What is the sum of 23 and 19?""}]"
+arithmetic,ar1,multi_turn,lexical,casual,True,"[{""role"": ""user"", ""content"": ""I'm studying basic addition.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""what is the sum of 23 and 19""}]"
+arithmetic,ar1,multi_turn,lexical,instruction,True,"[{""role"": ""user"", ""content"": ""I'm studying basic addition.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Compute the sum of 23 and 19.""}]"
+arithmetic,ar1,multi_turn,syntactic,formal,True,"[{""role"": ""user"", ""content"": ""I'm studying basic addition.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Could you please tell me: 23 plus 19 equals what?""}]"
+arithmetic,ar1,multi_turn,syntactic,casual,True,"[{""role"": ""user"", ""content"": ""I'm studying basic addition.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""23 plus 19 equals what""}]"
+arithmetic,ar1,multi_turn,syntactic,instruction,True,"[{""role"": ""user"", ""content"": ""I'm studying basic addition.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Calculate the value of 23 added to 19.""}]"
+arithmetic,ar2,direct_question,canonical,formal,False,Could you please tell me: What is 47 minus 18?
+arithmetic,ar2,direct_question,canonical,casual,False,what is 47 minus 18
+arithmetic,ar2,direct_question,canonical,instruction,False,Compute 47 minus 18.
+arithmetic,ar2,direct_question,lexical,formal,False,Could you please tell me: What is the difference of 47 and 18?
+arithmetic,ar2,direct_question,lexical,casual,False,what is the difference of 47 and 18
+arithmetic,ar2,direct_question,lexical,instruction,False,Compute the difference of 47 and 18.
+arithmetic,ar2,direct_question,syntactic,formal,False,Could you please tell me: 47 minus 18 equals what?
+arithmetic,ar2,direct_question,syntactic,casual,False,47 minus 18 equals what
+arithmetic,ar2,direct_question,syntactic,instruction,False,Calculate the value of 47 reduced by 18.
+arithmetic,ar2,fill_blank,canonical,formal,False,Could you complete the following: 47 minus 18 equals ___.
+arithmetic,ar2,fill_blank,canonical,casual,False,fill in: 47 minus 18 equals ___.
+arithmetic,ar2,fill_blank,canonical,instruction,False,Complete: 47 minus 18 equals ___.
+arithmetic,ar2,fill_blank,lexical,formal,False,Could you complete the following: The difference of 47 and 18 is ___.
+arithmetic,ar2,fill_blank,lexical,casual,False,fill in: the difference of 47 and 18 is ___.
+arithmetic,ar2,fill_blank,lexical,instruction,False,Complete: The difference of 47 and 18 is ___.
+arithmetic,ar2,fill_blank,syntactic,formal,False,Could you complete the following: Subtracting 18 from 47 gives ___.
+arithmetic,ar2,fill_blank,syntactic,casual,False,fill in: subtracting 18 from 47 gives ___.
+arithmetic,ar2,fill_blank,syntactic,instruction,False,Complete: Subtracting 18 from 47 gives ___.
+arithmetic,ar2,multi_turn,canonical,formal,True,"[{""role"": ""user"", ""content"": ""I'm studying basic subtraction.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Could you please tell me: What is 47 minus 18?""}]"
+arithmetic,ar2,multi_turn,canonical,casual,True,"[{""role"": ""user"", ""content"": ""I'm studying basic subtraction.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""what is 47 minus 18""}]"
+arithmetic,ar2,multi_turn,canonical,instruction,True,"[{""role"": ""user"", ""content"": ""I'm studying basic subtraction.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Compute 47 minus 18.""}]"
+arithmetic,ar2,multi_turn,lexical,formal,True,"[{""role"": ""user"", ""content"": ""I'm studying basic subtraction.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Could you please tell me: What is the difference of 47 and 18?""}]"
+arithmetic,ar2,multi_turn,lexical,casual,True,"[{""role"": ""user"", ""content"": ""I'm studying basic subtraction.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""what is the difference of 47 and 18""}]"
+arithmetic,ar2,multi_turn,lexical,instruction,True,"[{""role"": ""user"", ""content"": ""I'm studying basic subtraction.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Compute the difference of 47 and 18.""}]"
+arithmetic,ar2,multi_turn,syntactic,formal,True,"[{""role"": ""user"", ""content"": ""I'm studying basic subtraction.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Could you please tell me: 47 minus 18 equals what?""}]"
+arithmetic,ar2,multi_turn,syntactic,casual,True,"[{""role"": ""user"", ""content"": ""I'm studying basic subtraction.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""47 minus 18 equals what""}]"
+arithmetic,ar2,multi_turn,syntactic,instruction,True,"[{""role"": ""user"", ""content"": ""I'm studying basic subtraction.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Calculate the value of 47 reduced by 18.""}]"
+arithmetic,ar3,direct_question,canonical,formal,False,Could you please tell me: What is 8 times 7?
+arithmetic,ar3,direct_question,canonical,casual,False,what is 8 times 7
+arithmetic,ar3,direct_question,canonical,instruction,False,Compute 8 times 7.
+arithmetic,ar3,direct_question,lexical,formal,False,Could you please tell me: What is the product of 8 and 7?
+arithmetic,ar3,direct_question,lexical,casual,False,what is the product of 8 and 7
+arithmetic,ar3,direct_question,lexical,instruction,False,Compute the product of 8 and 7.
+arithmetic,ar3,direct_question,syntactic,formal,False,Could you please tell me: 8 times 7 equals what?
+arithmetic,ar3,direct_question,syntactic,casual,False,8 times 7 equals what
+arithmetic,ar3,direct_question,syntactic,instruction,False,Calculate the value of 8 multiplied by 7.
+arithmetic,ar3,fill_blank,canonical,formal,False,Could you complete the following: 8 times 7 equals ___.
+arithmetic,ar3,fill_blank,canonical,casual,False,fill in: 8 times 7 equals ___.
+arithmetic,ar3,fill_blank,canonical,instruction,False,Complete: 8 times 7 equals ___.
+arithmetic,ar3,fill_blank,lexical,formal,False,Could you complete the following: The product of 8 and 7 is ___.
+arithmetic,ar3,fill_blank,lexical,casual,False,fill in: the product of 8 and 7 is ___.
+arithmetic,ar3,fill_blank,lexical,instruction,False,Complete: The product of 8 and 7 is ___.
+arithmetic,ar3,fill_blank,syntactic,formal,False,Could you complete the following: Multiplying 8 by 7 gives ___.
+arithmetic,ar3,fill_blank,syntactic,casual,False,fill in: multiplying 8 by 7 gives ___.
+arithmetic,ar3,fill_blank,syntactic,instruction,False,Complete: Multiplying 8 by 7 gives ___.
+arithmetic,ar3,multi_turn,canonical,formal,True,"[{""role"": ""user"", ""content"": ""I'm studying basic multiplication.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Could you please tell me: What is 8 times 7?""}]"
+arithmetic,ar3,multi_turn,canonical,casual,True,"[{""role"": ""user"", ""content"": ""I'm studying basic multiplication.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""what is 8 times 7""}]"
+arithmetic,ar3,multi_turn,canonical,instruction,True,"[{""role"": ""user"", ""content"": ""I'm studying basic multiplication.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Compute 8 times 7.""}]"
+arithmetic,ar3,multi_turn,lexical,formal,True,"[{""role"": ""user"", ""content"": ""I'm studying basic multiplication.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Could you please tell me: What is the product of 8 and 7?""}]"
+arithmetic,ar3,multi_turn,lexical,casual,True,"[{""role"": ""user"", ""content"": ""I'm studying basic multiplication.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""what is the product of 8 and 7""}]"
+arithmetic,ar3,multi_turn,lexical,instruction,True,"[{""role"": ""user"", ""content"": ""I'm studying basic multiplication.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Compute the product of 8 and 7.""}]"
+arithmetic,ar3,multi_turn,syntactic,formal,True,"[{""role"": ""user"", ""content"": ""I'm studying basic multiplication.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Could you please tell me: 8 times 7 equals what?""}]"
+arithmetic,ar3,multi_turn,syntactic,casual,True,"[{""role"": ""user"", ""content"": ""I'm studying basic multiplication.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""8 times 7 equals what""}]"
+arithmetic,ar3,multi_turn,syntactic,instruction,True,"[{""role"": ""user"", ""content"": ""I'm studying basic multiplication.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Calculate the value of 8 multiplied by 7.""}]"
+arithmetic,ar4,direct_question,canonical,formal,False,Could you please tell me: What is 144 divided by 12?
+arithmetic,ar4,direct_question,canonical,casual,False,what is 144 divided by 12
+arithmetic,ar4,direct_question,canonical,instruction,False,Compute 144 divided by 12.
+arithmetic,ar4,direct_question,lexical,formal,False,Could you please tell me: What is the quotient of 144 and 12?
+arithmetic,ar4,direct_question,lexical,casual,False,what is the quotient of 144 and 12
+arithmetic,ar4,direct_question,lexical,instruction,False,Compute the quotient of 144 and 12.
+arithmetic,ar4,direct_question,syntactic,formal,False,Could you please tell me: 144 divided by 12 equals what?
+arithmetic,ar4,direct_question,syntactic,casual,False,144 divided by 12 equals what
+arithmetic,ar4,direct_question,syntactic,instruction,False,Calculate the value of 144 divided into groups of 12.
+arithmetic,ar4,fill_blank,canonical,formal,False,Could you complete the following: 144 divided by 12 equals ___.
+arithmetic,ar4,fill_blank,canonical,casual,False,fill in: 144 divided by 12 equals ___.
+arithmetic,ar4,fill_blank,canonical,instruction,False,Complete: 144 divided by 12 equals ___.
+arithmetic,ar4,fill_blank,lexical,formal,False,Could you complete the following: The quotient of 144 and 12 is ___.
+arithmetic,ar4,fill_blank,lexical,casual,False,fill in: the quotient of 144 and 12 is ___.
+arithmetic,ar4,fill_blank,lexical,instruction,False,Complete: The quotient of 144 and 12 is ___.
+arithmetic,ar4,fill_blank,syntactic,formal,False,Could you complete the following: Dividing 144 by 12 gives ___.
+arithmetic,ar4,fill_blank,syntactic,casual,False,fill in: dividing 144 by 12 gives ___.
+arithmetic,ar4,fill_blank,syntactic,instruction,False,Complete: Dividing 144 by 12 gives ___.
+arithmetic,ar4,multi_turn,canonical,formal,True,"[{""role"": ""user"", ""content"": ""I'm studying basic division.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Could you please tell me: What is 144 divided by 12?""}]"
+arithmetic,ar4,multi_turn,canonical,casual,True,"[{""role"": ""user"", ""content"": ""I'm studying basic division.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""what is 144 divided by 12""}]"
+arithmetic,ar4,multi_turn,canonical,instruction,True,"[{""role"": ""user"", ""content"": ""I'm studying basic division.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Compute 144 divided by 12.""}]"
+arithmetic,ar4,multi_turn,lexical,formal,True,"[{""role"": ""user"", ""content"": ""I'm studying basic division.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Could you please tell me: What is the quotient of 144 and 12?""}]"
+arithmetic,ar4,multi_turn,lexical,casual,True,"[{""role"": ""user"", ""content"": ""I'm studying basic division.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""what is the quotient of 144 and 12""}]"
+arithmetic,ar4,multi_turn,lexical,instruction,True,"[{""role"": ""user"", ""content"": ""I'm studying basic division.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Compute the quotient of 144 and 12.""}]"
+arithmetic,ar4,multi_turn,syntactic,formal,True,"[{""role"": ""user"", ""content"": ""I'm studying basic division.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Could you please tell me: 144 divided by 12 equals what?""}]"
+arithmetic,ar4,multi_turn,syntactic,casual,True,"[{""role"": ""user"", ""content"": ""I'm studying basic division.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""144 divided by 12 equals what""}]"
+arithmetic,ar4,multi_turn,syntactic,instruction,True,"[{""role"": ""user"", ""content"": ""I'm studying basic division.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Calculate the value of 144 divided into groups of 12.""}]"
+arithmetic,ar5,direct_question,canonical,formal,False,Could you please tell me: What is 15 plus 27?
+arithmetic,ar5,direct_question,canonical,casual,False,what is 15 plus 27
+arithmetic,ar5,direct_question,canonical,instruction,False,Compute 15 plus 27.
+arithmetic,ar5,direct_question,lexical,formal,False,Could you please tell me: What is the sum of 15 and 27?
+arithmetic,ar5,direct_question,lexical,casual,False,what is the sum of 15 and 27
+arithmetic,ar5,direct_question,lexical,instruction,False,Compute the sum of 15 and 27.
+arithmetic,ar5,direct_question,syntactic,formal,False,Could you please tell me: 15 plus 27 equals what?
+arithmetic,ar5,direct_question,syntactic,casual,False,15 plus 27 equals what
+arithmetic,ar5,direct_question,syntactic,instruction,False,Calculate the value of 15 added to 27.
+arithmetic,ar5,fill_blank,canonical,formal,False,Could you complete the following: 15 plus 27 equals ___.
+arithmetic,ar5,fill_blank,canonical,casual,False,fill in: 15 plus 27 equals ___.
+arithmetic,ar5,fill_blank,canonical,instruction,False,Complete: 15 plus 27 equals ___.
+arithmetic,ar5,fill_blank,lexical,formal,False,Could you complete the following: The sum of 15 and 27 is ___.
+arithmetic,ar5,fill_blank,lexical,casual,False,fill in: the sum of 15 and 27 is ___.
+arithmetic,ar5,fill_blank,lexical,instruction,False,Complete: The sum of 15 and 27 is ___.
+arithmetic,ar5,fill_blank,syntactic,formal,False,Could you complete the following: Adding 15 and 27 gives ___.
+arithmetic,ar5,fill_blank,syntactic,casual,False,fill in: adding 15 and 27 gives ___.
+arithmetic,ar5,fill_blank,syntactic,instruction,False,Complete: Adding 15 and 27 gives ___.
+arithmetic,ar5,multi_turn,canonical,formal,True,"[{""role"": ""user"", ""content"": ""I'm studying basic addition.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Could you please tell me: What is 15 plus 27?""}]"
+arithmetic,ar5,multi_turn,canonical,casual,True,"[{""role"": ""user"", ""content"": ""I'm studying basic addition.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""what is 15 plus 27""}]"
+arithmetic,ar5,multi_turn,canonical,instruction,True,"[{""role"": ""user"", ""content"": ""I'm studying basic addition.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Compute 15 plus 27.""}]"
+arithmetic,ar5,multi_turn,lexical,formal,True,"[{""role"": ""user"", ""content"": ""I'm studying basic addition.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Could you please tell me: What is the sum of 15 and 27?""}]"
+arithmetic,ar5,multi_turn,lexical,casual,True,"[{""role"": ""user"", ""content"": ""I'm studying basic addition.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""what is the sum of 15 and 27""}]"
+arithmetic,ar5,multi_turn,lexical,instruction,True,"[{""role"": ""user"", ""content"": ""I'm studying basic addition.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Compute the sum of 15 and 27.""}]"
+arithmetic,ar5,multi_turn,syntactic,formal,True,"[{""role"": ""user"", ""content"": ""I'm studying basic addition.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Could you please tell me: 15 plus 27 equals what?""}]"
+arithmetic,ar5,multi_turn,syntactic,casual,True,"[{""role"": ""user"", ""content"": ""I'm studying basic addition.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""15 plus 27 equals what""}]"
+arithmetic,ar5,multi_turn,syntactic,instruction,True,"[{""role"": ""user"", ""content"": ""I'm studying basic addition.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Calculate the value of 15 added to 27.""}]"
+simple_reasoning,sr1,direct_question,canonical,formal,False,"Could you please tell me: All roses are flowers. This is a rose. Therefore, this is a what?"
+simple_reasoning,sr1,direct_question,canonical,casual,False,"all roses are flowers. this is a rose. therefore, this is a what"
+simple_reasoning,sr1,direct_question,canonical,instruction,False,All roses are flowers. This is a rose. State what this is.
+simple_reasoning,sr1,direct_question,lexical,formal,False,"Could you please tell me: All roses are flowers. This is a rose. Hence, this is a what?"
+simple_reasoning,sr1,direct_question,lexical,casual,False,"all roses are flowers. this is a rose. hence, this is a what"
+simple_reasoning,sr1,direct_question,lexical,instruction,False,"All roses are flowers. This is a rose. Hence, state what this is."
+simple_reasoning,sr1,direct_question,syntactic,formal,False,Could you please tell me: All roses are flowers. This is a rose. This is therefore a what?
+simple_reasoning,sr1,direct_question,syntactic,casual,False,all roses are flowers. this is a rose. this is therefore a what
+simple_reasoning,sr1,direct_question,syntactic,instruction,False,All roses are flowers. This is a rose. State what category this falls into.
+simple_reasoning,sr1,fill_blank,canonical,formal,False,"Could you complete the following: All roses are flowers. This is a rose. Therefore, this is a ___."
+simple_reasoning,sr1,fill_blank,canonical,casual,False,"fill in: all roses are flowers. this is a rose. therefore, this is a ___."
+simple_reasoning,sr1,fill_blank,canonical,instruction,False,"Complete: All roses are flowers. This is a rose. Therefore, this is a ___."
+simple_reasoning,sr1,fill_blank,lexical,formal,False,"Could you complete the following: All roses are flowers. This is a rose. Hence, this is a ___."
+simple_reasoning,sr1,fill_blank,lexical,casual,False,"fill in: all roses are flowers. this is a rose. hence, this is a ___."
+simple_reasoning,sr1,fill_blank,lexical,instruction,False,"Complete: All roses are flowers. This is a rose. Hence, this is a ___."
+simple_reasoning,sr1,fill_blank,syntactic,formal,False,Could you complete the following: All roses are flowers. This is a rose. This is therefore a ___.
+simple_reasoning,sr1,fill_blank,syntactic,casual,False,fill in: all roses are flowers. this is a rose. this is therefore a ___.
+simple_reasoning,sr1,fill_blank,syntactic,instruction,False,Complete: All roses are flowers. This is a rose. This is therefore a ___.
+simple_reasoning,sr1,multi_turn,canonical,formal,True,"[{""role"": ""user"", ""content"": ""I'm studying categorical syllogisms.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Could you please tell me: All roses are flowers. This is a rose. Therefore, this is a what?""}]"
+simple_reasoning,sr1,multi_turn,canonical,casual,True,"[{""role"": ""user"", ""content"": ""I'm studying categorical syllogisms.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""all roses are flowers. this is a rose. therefore, this is a what""}]"
+simple_reasoning,sr1,multi_turn,canonical,instruction,True,"[{""role"": ""user"", ""content"": ""I'm studying categorical syllogisms.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""All roses are flowers. This is a rose. State what this is.""}]"
+simple_reasoning,sr1,multi_turn,lexical,formal,True,"[{""role"": ""user"", ""content"": ""I'm studying categorical syllogisms.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Could you please tell me: All roses are flowers. This is a rose. Hence, this is a what?""}]"
+simple_reasoning,sr1,multi_turn,lexical,casual,True,"[{""role"": ""user"", ""content"": ""I'm studying categorical syllogisms.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""all roses are flowers. this is a rose. hence, this is a what""}]"
+simple_reasoning,sr1,multi_turn,lexical,instruction,True,"[{""role"": ""user"", ""content"": ""I'm studying categorical syllogisms.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""All roses are flowers. This is a rose. Hence, state what this is.""}]"
+simple_reasoning,sr1,multi_turn,syntactic,formal,True,"[{""role"": ""user"", ""content"": ""I'm studying categorical syllogisms.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Could you please tell me: All roses are flowers. This is a rose. This is therefore a what?""}]"
+simple_reasoning,sr1,multi_turn,syntactic,casual,True,"[{""role"": ""user"", ""content"": ""I'm studying categorical syllogisms.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""all roses are flowers. this is a rose. this is therefore a what""}]"
+simple_reasoning,sr1,multi_turn,syntactic,instruction,True,"[{""role"": ""user"", ""content"": ""I'm studying categorical syllogisms.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""All roses are flowers. This is a rose. State what category this falls into.""}]"
+simple_reasoning,sr2,direct_question,canonical,formal,False,"Could you please tell me: All dogs are mammals. Rex is a dog. Therefore, Rex is a what?"
+simple_reasoning,sr2,direct_question,canonical,casual,False,"all dogs are mammals. rex is a dog. therefore, rex is a what"
+simple_reasoning,sr2,direct_question,canonical,instruction,False,All dogs are mammals. Rex is a dog. State what Rex is.
+simple_reasoning,sr2,direct_question,lexical,formal,False,"Could you please tell me: All dogs are mammals. Rex is a dog. Hence, Rex is a what?"
+simple_reasoning,sr2,direct_question,lexical,casual,False,"all dogs are mammals. rex is a dog. hence, rex is a what"
+simple_reasoning,sr2,direct_question,lexical,instruction,False,"All dogs are mammals. Rex is a dog. Hence, state what Rex is."
+simple_reasoning,sr2,direct_question,syntactic,formal,False,Could you please tell me: All dogs are mammals. Rex is a dog. Rex is therefore a what?
+simple_reasoning,sr2,direct_question,syntactic,casual,False,all dogs are mammals. rex is a dog. rex is therefore a what
+simple_reasoning,sr2,direct_question,syntactic,instruction,False,All dogs are mammals. Rex is a dog. State what category Rex falls into.
+simple_reasoning,sr2,fill_blank,canonical,formal,False,"Could you complete the following: All dogs are mammals. Rex is a dog. Therefore, Rex is a ___."
+simple_reasoning,sr2,fill_blank,canonical,casual,False,"fill in: all dogs are mammals. rex is a dog. therefore, rex is a ___."
+simple_reasoning,sr2,fill_blank,canonical,instruction,False,"Complete: All dogs are mammals. Rex is a dog. Therefore, Rex is a ___."
+simple_reasoning,sr2,fill_blank,lexical,formal,False,"Could you complete the following: All dogs are mammals. Rex is a dog. Hence, Rex is a ___."
+simple_reasoning,sr2,fill_blank,lexical,casual,False,"fill in: all dogs are mammals. rex is a dog. hence, rex is a ___."
+simple_reasoning,sr2,fill_blank,lexical,instruction,False,"Complete: All dogs are mammals. Rex is a dog. Hence, Rex is a ___."
+simple_reasoning,sr2,fill_blank,syntactic,formal,False,Could you complete the following: All dogs are mammals. Rex is a dog. Rex is therefore a ___.
+simple_reasoning,sr2,fill_blank,syntactic,casual,False,fill in: all dogs are mammals. rex is a dog. rex is therefore a ___.
+simple_reasoning,sr2,fill_blank,syntactic,instruction,False,Complete: All dogs are mammals. Rex is a dog. Rex is therefore a ___.
+simple_reasoning,sr2,multi_turn,canonical,formal,True,"[{""role"": ""user"", ""content"": ""I'm studying categorical syllogisms.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Could you please tell me: All dogs are mammals. Rex is a dog. Therefore, Rex is a what?""}]"
+simple_reasoning,sr2,multi_turn,canonical,casual,True,"[{""role"": ""user"", ""content"": ""I'm studying categorical syllogisms.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""all dogs are mammals. rex is a dog. therefore, rex is a what""}]"
+simple_reasoning,sr2,multi_turn,canonical,instruction,True,"[{""role"": ""user"", ""content"": ""I'm studying categorical syllogisms.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""All dogs are mammals. Rex is a dog. State what Rex is.""}]"
+simple_reasoning,sr2,multi_turn,lexical,formal,True,"[{""role"": ""user"", ""content"": ""I'm studying categorical syllogisms.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Could you please tell me: All dogs are mammals. Rex is a dog. Hence, Rex is a what?""}]"
+simple_reasoning,sr2,multi_turn,lexical,casual,True,"[{""role"": ""user"", ""content"": ""I'm studying categorical syllogisms.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""all dogs are mammals. rex is a dog. hence, rex is a what""}]"
+simple_reasoning,sr2,multi_turn,lexical,instruction,True,"[{""role"": ""user"", ""content"": ""I'm studying categorical syllogisms.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""All dogs are mammals. Rex is a dog. Hence, state what Rex is.""}]"
+simple_reasoning,sr2,multi_turn,syntactic,formal,True,"[{""role"": ""user"", ""content"": ""I'm studying categorical syllogisms.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Could you please tell me: All dogs are mammals. Rex is a dog. Rex is therefore a what?""}]"
+simple_reasoning,sr2,multi_turn,syntactic,casual,True,"[{""role"": ""user"", ""content"": ""I'm studying categorical syllogisms.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""all dogs are mammals. rex is a dog. rex is therefore a what""}]"
+simple_reasoning,sr2,multi_turn,syntactic,instruction,True,"[{""role"": ""user"", ""content"": ""I'm studying categorical syllogisms.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""All dogs are mammals. Rex is a dog. State what category Rex falls into.""}]"
+simple_reasoning,sr3,direct_question,canonical,formal,False,"Could you please tell me: All squares have four sides. This shape is a square. Therefore, this shape has how many sides?"
+simple_reasoning,sr3,direct_question,canonical,casual,False,"all squares have four sides. this shape is a square. therefore, this shape has how many sides"
+simple_reasoning,sr3,direct_question,canonical,instruction,False,All squares have four sides. This shape is a square. State how many sides it has.
+simple_reasoning,sr3,direct_question,lexical,formal,False,"Could you please tell me: All squares have four sides. This shape is a square. Hence, this shape has how many sides?"
+simple_reasoning,sr3,direct_question,lexical,casual,False,"all squares have four sides. this shape is a square. hence, this shape has how many sides"
+simple_reasoning,sr3,direct_question,lexical,instruction,False,"All squares have four sides. This shape is a square. Hence, state how many sides it has."
+simple_reasoning,sr3,direct_question,syntactic,formal,False,Could you please tell me: All squares have four sides. This shape is a square. The number of sides this shape has is what?
+simple_reasoning,sr3,direct_question,syntactic,casual,False,all squares have four sides. this shape is a square. the number of sides this shape has is what
+simple_reasoning,sr3,direct_question,syntactic,instruction,False,All squares have four sides. This shape is a square. Identify the number of sides on this shape.
+simple_reasoning,sr3,fill_blank,canonical,formal,False,"Could you complete the following: All squares have four sides. This shape is a square. Therefore, this shape has ___ sides."
+simple_reasoning,sr3,fill_blank,canonical,casual,False,"fill in: all squares have four sides. this shape is a square. therefore, this shape has ___ sides."
+simple_reasoning,sr3,fill_blank,canonical,instruction,False,"Complete: All squares have four sides. This shape is a square. Therefore, this shape has ___ sides."
+simple_reasoning,sr3,fill_blank,lexical,formal,False,"Could you complete the following: All squares have four sides. This shape is a square. Hence, this shape has ___ sides."
+simple_reasoning,sr3,fill_blank,lexical,casual,False,"fill in: all squares have four sides. this shape is a square. hence, this shape has ___ sides."
+simple_reasoning,sr3,fill_blank,lexical,instruction,False,"Complete: All squares have four sides. This shape is a square. Hence, this shape has ___ sides."
+simple_reasoning,sr3,fill_blank,syntactic,formal,False,Could you complete the following: All squares have four sides. This shape is a square. The number of sides this shape has is ___.
+simple_reasoning,sr3,fill_blank,syntactic,casual,False,fill in: all squares have four sides. this shape is a square. the number of sides this shape has is ___.
+simple_reasoning,sr3,fill_blank,syntactic,instruction,False,Complete: All squares have four sides. This shape is a square. The number of sides this shape has is ___.
+simple_reasoning,sr3,multi_turn,canonical,formal,True,"[{""role"": ""user"", ""content"": ""I'm studying geometric properties.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Could you please tell me: All squares have four sides. This shape is a square. Therefore, this shape has how many sides?""}]"
+simple_reasoning,sr3,multi_turn,canonical,casual,True,"[{""role"": ""user"", ""content"": ""I'm studying geometric properties.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""all squares have four sides. this shape is a square. therefore, this shape has how many sides""}]"
+simple_reasoning,sr3,multi_turn,canonical,instruction,True,"[{""role"": ""user"", ""content"": ""I'm studying geometric properties.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""All squares have four sides. This shape is a square. State how many sides it has.""}]"
+simple_reasoning,sr3,multi_turn,lexical,formal,True,"[{""role"": ""user"", ""content"": ""I'm studying geometric properties.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Could you please tell me: All squares have four sides. This shape is a square. Hence, this shape has how many sides?""}]"
+simple_reasoning,sr3,multi_turn,lexical,casual,True,"[{""role"": ""user"", ""content"": ""I'm studying geometric properties.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""all squares have four sides. this shape is a square. hence, this shape has how many sides""}]"
+simple_reasoning,sr3,multi_turn,lexical,instruction,True,"[{""role"": ""user"", ""content"": ""I'm studying geometric properties.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""All squares have four sides. This shape is a square. Hence, state how many sides it has.""}]"
+simple_reasoning,sr3,multi_turn,syntactic,formal,True,"[{""role"": ""user"", ""content"": ""I'm studying geometric properties.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Could you please tell me: All squares have four sides. This shape is a square. The number of sides this shape has is what?""}]"
+simple_reasoning,sr3,multi_turn,syntactic,casual,True,"[{""role"": ""user"", ""content"": ""I'm studying geometric properties.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""all squares have four sides. this shape is a square. the number of sides this shape has is what""}]"
+simple_reasoning,sr3,multi_turn,syntactic,instruction,True,"[{""role"": ""user"", ""content"": ""I'm studying geometric properties.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""All squares have four sides. This shape is a square. Identify the number of sides on this shape.""}]"
+simple_reasoning,sr4,direct_question,canonical,formal,False,"Could you please tell me: All birds have feathers. A robin is a bird. Therefore, a robin has what?"
+simple_reasoning,sr4,direct_question,canonical,casual,False,"all birds have feathers. a robin is a bird. therefore, a robin has what"
+simple_reasoning,sr4,direct_question,canonical,instruction,False,All birds have feathers. A robin is a bird. State what a robin has.
+simple_reasoning,sr4,direct_question,lexical,formal,False,"Could you please tell me: All birds possess feathers. A robin is a bird. Therefore, a robin possesses what?"
+simple_reasoning,sr4,direct_question,lexical,casual,False,"all birds possess feathers. a robin is a bird. therefore, a robin possesses what"
+simple_reasoning,sr4,direct_question,lexical,instruction,False,All birds possess feathers. A robin is a bird. State what a robin possesses.
+simple_reasoning,sr4,direct_question,syntactic,formal,False,Could you please tell me: All birds have feathers. A robin is a bird. What does a robin have?
+simple_reasoning,sr4,direct_question,syntactic,casual,False,all birds have feathers. a robin is a bird. what does a robin have
+simple_reasoning,sr4,direct_question,syntactic,instruction,False,All birds have feathers. A robin is a bird. Identify what a robin has.
+simple_reasoning,sr4,fill_blank,canonical,formal,False,"Could you complete the following: All birds have feathers. A robin is a bird. Therefore, a robin has ___."
+simple_reasoning,sr4,fill_blank,canonical,casual,False,"fill in: all birds have feathers. a robin is a bird. therefore, a robin has ___."
+simple_reasoning,sr4,fill_blank,canonical,instruction,False,"Complete: All birds have feathers. A robin is a bird. Therefore, a robin has ___."
+simple_reasoning,sr4,fill_blank,lexical,formal,False,"Could you complete the following: All birds possess feathers. A robin is a bird. Therefore, a robin possesses ___."
+simple_reasoning,sr4,fill_blank,lexical,casual,False,"fill in: all birds possess feathers. a robin is a bird. therefore, a robin possesses ___."
+simple_reasoning,sr4,fill_blank,lexical,instruction,False,"Complete: All birds possess feathers. A robin is a bird. Therefore, a robin possesses ___."
+simple_reasoning,sr4,fill_blank,syntactic,formal,False,Could you complete the following: All birds have feathers. A robin is a bird. What a robin has is ___.
+simple_reasoning,sr4,fill_blank,syntactic,casual,False,fill in: all birds have feathers. a robin is a bird. what a robin has is ___.
+simple_reasoning,sr4,fill_blank,syntactic,instruction,False,Complete: All birds have feathers. A robin is a bird. What a robin has is ___.
+simple_reasoning,sr4,multi_turn,canonical,formal,True,"[{""role"": ""user"", ""content"": ""I'm studying biological classification.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Could you please tell me: All birds have feathers. A robin is a bird. Therefore, a robin has what?""}]"
+simple_reasoning,sr4,multi_turn,canonical,casual,True,"[{""role"": ""user"", ""content"": ""I'm studying biological classification.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""all birds have feathers. a robin is a bird. therefore, a robin has what""}]"
+simple_reasoning,sr4,multi_turn,canonical,instruction,True,"[{""role"": ""user"", ""content"": ""I'm studying biological classification.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""All birds have feathers. A robin is a bird. State what a robin has.""}]"
+simple_reasoning,sr4,multi_turn,lexical,formal,True,"[{""role"": ""user"", ""content"": ""I'm studying biological classification.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Could you please tell me: All birds possess feathers. A robin is a bird. Therefore, a robin possesses what?""}]"
+simple_reasoning,sr4,multi_turn,lexical,casual,True,"[{""role"": ""user"", ""content"": ""I'm studying biological classification.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""all birds possess feathers. a robin is a bird. therefore, a robin possesses what""}]"
+simple_reasoning,sr4,multi_turn,lexical,instruction,True,"[{""role"": ""user"", ""content"": ""I'm studying biological classification.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""All birds possess feathers. A robin is a bird. State what a robin possesses.""}]"
+simple_reasoning,sr4,multi_turn,syntactic,formal,True,"[{""role"": ""user"", ""content"": ""I'm studying biological classification.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Could you please tell me: All birds have feathers. A robin is a bird. What does a robin have?""}]"
+simple_reasoning,sr4,multi_turn,syntactic,casual,True,"[{""role"": ""user"", ""content"": ""I'm studying biological classification.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""all birds have feathers. a robin is a bird. what does a robin have""}]"
+simple_reasoning,sr4,multi_turn,syntactic,instruction,True,"[{""role"": ""user"", ""content"": ""I'm studying biological classification.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""All birds have feathers. A robin is a bird. Identify what a robin has.""}]"
+simple_reasoning,sr5,direct_question,canonical,formal,False,"Could you please tell me: All metals conduct electricity. Copper is a metal. Therefore, copper conducts what?"
+simple_reasoning,sr5,direct_question,canonical,casual,False,"all metals conduct electricity. copper is a metal. therefore, copper conducts what"
+simple_reasoning,sr5,direct_question,canonical,instruction,False,All metals conduct electricity. Copper is a metal. State what copper conducts.
+simple_reasoning,sr5,direct_question,lexical,formal,False,"Could you please tell me: All metals are conductors of electricity. Copper is a metal. Therefore, copper conducts what?"
+simple_reasoning,sr5,direct_question,lexical,casual,False,"all metals are conductors of electricity. copper is a metal. therefore, copper conducts what"
+simple_reasoning,sr5,direct_question,lexical,instruction,False,All metals are conductors of electricity. Copper is a metal. State what copper conducts.
+simple_reasoning,sr5,direct_question,syntactic,formal,False,Could you please tell me: All metals conduct electricity. Copper is a metal. What does copper conduct?
+simple_reasoning,sr5,direct_question,syntactic,casual,False,all metals conduct electricity. copper is a metal. what does copper conduct
+simple_reasoning,sr5,direct_question,syntactic,instruction,False,All metals conduct electricity. Copper is a metal. Identify what copper conducts.
+simple_reasoning,sr5,fill_blank,canonical,formal,False,"Could you complete the following: All metals conduct electricity. Copper is a metal. Therefore, copper conducts ___."
+simple_reasoning,sr5,fill_blank,canonical,casual,False,"fill in: all metals conduct electricity. copper is a metal. therefore, copper conducts ___."
+simple_reasoning,sr5,fill_blank,canonical,instruction,False,"Complete: All metals conduct electricity. Copper is a metal. Therefore, copper conducts ___."
+simple_reasoning,sr5,fill_blank,lexical,formal,False,"Could you complete the following: All metals are conductors of electricity. Copper is a metal. Therefore, copper conducts ___."
+simple_reasoning,sr5,fill_blank,lexical,casual,False,"fill in: all metals are conductors of electricity. copper is a metal. therefore, copper conducts ___."
+simple_reasoning,sr5,fill_blank,lexical,instruction,False,"Complete: All metals are conductors of electricity. Copper is a metal. Therefore, copper conducts ___."
+simple_reasoning,sr5,fill_blank,syntactic,formal,False,Could you complete the following: All metals conduct electricity. Copper is a metal. What copper conducts is ___.
+simple_reasoning,sr5,fill_blank,syntactic,casual,False,fill in: all metals conduct electricity. copper is a metal. what copper conducts is ___.
+simple_reasoning,sr5,fill_blank,syntactic,instruction,False,Complete: All metals conduct electricity. Copper is a metal. What copper conducts is ___.
+simple_reasoning,sr5,multi_turn,canonical,formal,True,"[{""role"": ""user"", ""content"": ""I'm studying physical properties of materials.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Could you please tell me: All metals conduct electricity. Copper is a metal. Therefore, copper conducts what?""}]"
+simple_reasoning,sr5,multi_turn,canonical,casual,True,"[{""role"": ""user"", ""content"": ""I'm studying physical properties of materials.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""all metals conduct electricity. copper is a metal. therefore, copper conducts what""}]"
+simple_reasoning,sr5,multi_turn,canonical,instruction,True,"[{""role"": ""user"", ""content"": ""I'm studying physical properties of materials.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""All metals conduct electricity. Copper is a metal. State what copper conducts.""}]"
+simple_reasoning,sr5,multi_turn,lexical,formal,True,"[{""role"": ""user"", ""content"": ""I'm studying physical properties of materials.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Could you please tell me: All metals are conductors of electricity. Copper is a metal. Therefore, copper conducts what?""}]"
+simple_reasoning,sr5,multi_turn,lexical,casual,True,"[{""role"": ""user"", ""content"": ""I'm studying physical properties of materials.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""all metals are conductors of electricity. copper is a metal. therefore, copper conducts what""}]"
+simple_reasoning,sr5,multi_turn,lexical,instruction,True,"[{""role"": ""user"", ""content"": ""I'm studying physical properties of materials.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""All metals are conductors of electricity. Copper is a metal. State what copper conducts.""}]"
+simple_reasoning,sr5,multi_turn,syntactic,formal,True,"[{""role"": ""user"", ""content"": ""I'm studying physical properties of materials.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""Could you please tell me: All metals conduct electricity. Copper is a metal. What does copper conduct?""}]"
+simple_reasoning,sr5,multi_turn,syntactic,casual,True,"[{""role"": ""user"", ""content"": ""I'm studying physical properties of materials.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""all metals conduct electricity. copper is a metal. what does copper conduct""}]"
+simple_reasoning,sr5,multi_turn,syntactic,instruction,True,"[{""role"": ""user"", ""content"": ""I'm studying physical properties of materials.""}, {""role"": ""assistant"", ""content"": ""Happy to help. What would you like to know?""}, {""role"": ""user"", ""content"": ""All metals conduct electricity. Copper is a metal. Identify what copper conducts.""}]"
